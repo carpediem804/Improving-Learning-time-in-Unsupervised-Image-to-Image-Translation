@@ -58,7 +58,7 @@ images of high quality.
 ![image](https://user-images.githubusercontent.com/33194900/70114633-6ac38b80-16a0-11ea-8a81-b12aa456a43a.png)
 
 
-##Conclusion
+## Conclusion
 In this study, we used a residual block in the upsampling
 structure in the generator to maintain the shape
 transformation and construct a network that takes much
