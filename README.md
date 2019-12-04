@@ -42,7 +42,7 @@ making it easier to learn and be capable of producing
 images of high quality.
 
 ## Generator model 
-![image](https://user-images.githubusercontent.com/33194900/70114208-f76d4a00-169e-11ea-9c8c-0c83635f437f.png)
+![image](https://user-images.githubusercontent.com/33194900/70114532-246e2c80-16a0-11ea-86be-1cf506c8fa7b.png)
 
 ## result 
 ### Total learning time and Morphological transformation error
@@ -52,10 +52,11 @@ images of high quality.
 |Classification Error|8.92%|8.77%|
 
 ### result image example
-![image](https://user-images.githubusercontent.com/33194900/70114292-4e731f00-169f-11ea-9549-b1cf56cdfd3f.png)
+![image](https://user-images.githubusercontent.com/33194900/70114603-5aabac00-16a0-11ea-90d1-601d98d26337.png)
 
 ### Resolution Result
-![image](https://user-images.githubusercontent.com/33194900/70114414-c3465900-169f-11ea-935f-e8ad5cc3c409.png)
+![image](https://user-images.githubusercontent.com/33194900/70114633-6ac38b80-16a0-11ea-8a81-b12aa456a43a.png)
+
 
 ##Conclusion
 In this study, we used a residual block in the upsampling
